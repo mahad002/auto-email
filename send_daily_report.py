@@ -74,7 +74,7 @@ while True:
 # ps -ef | grep send_daily_report.py
 
 # to kill the process
-# kill -9 PID
+# kill PID
 # PID is the process id of the script
 # to get the process id run the following command
 
